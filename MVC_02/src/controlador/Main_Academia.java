@@ -16,7 +16,7 @@ public class Main_Academia {
         Consola c = new Consola();
         c.mostrarDatos();
         
-        int a =345;
+        int a =34;
        
     }
 }
